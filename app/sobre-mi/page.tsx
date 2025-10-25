@@ -35,7 +35,7 @@ export default function SobreMiPage() {
           <div className="flex-1 space-y-4 md:space-y-6">
             <div className="space-y-3 md:space-y-4">
               <p className="text-lg sm:text-xl text-gray-300 leading-relaxed">
-                Desarrollador junior especializado en <span className="text-purple-400">.NET</span> y <span className="text-pink-400">Next.js</span>.
+                Desarrollador junior especializado en <span className="text-purple-400">.NET</span> y <span className="text-pink-400">React</span>.
               </p>
               <p className="text-sm sm:text-base text-gray-400 leading-relaxed">
                 Buenas soy Matias, soy un desarrollador junior especializado en .NET y Next.js. 
