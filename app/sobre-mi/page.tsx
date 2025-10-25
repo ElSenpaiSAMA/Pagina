@@ -38,7 +38,7 @@ export default function SobreMiPage() {
                 Desarrollador junior especializado en <span className="text-purple-400">.NET</span> y <span className="text-pink-400">React</span>.
               </p>
               <p className="text-sm sm:text-base text-gray-400 leading-relaxed">
-                Buenas soy Matias, soy un desarrollador junior especializado en .NET y Next.js. 
+                Buenas soy Matias, soy un desarrollador junior especializado en .NET y React. 
                 Actualmente trabajo en Novicell ES como desarrollador junior en Backend. 
                 Me encuentro formándome en Sitecore actualmente , y aprendiendo sobre DevOps.             
               </p>
