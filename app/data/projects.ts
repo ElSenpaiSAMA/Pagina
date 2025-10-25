@@ -14,7 +14,7 @@ export const projects: Project[] = [
     description:
       "Pagina web personal.",
     tech: ["Next.js", "Tailwind", "TypeScript"],
-    link: "https://github.com/ElSenpaiSAMA/PortfolioPag",
+    link: "https://github.com/ElSenpaiSAMA/Pagina",
     image: "/pagina.png",
   },
 
