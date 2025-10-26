@@ -15,7 +15,7 @@ export const projects: Project[] = [
     description:
       "Libreria online.",
     tech: ["Next.js", "Tailwind", "TypeScript","Firebase", "OpenLibrary API"],
-    link: "mundolibro-bay.vercel.app",
+    link: "https://mundolibro-bay.vercel.app",
     image: "/mundo del libro.png",
   },
 
