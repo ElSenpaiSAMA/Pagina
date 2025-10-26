@@ -8,8 +8,19 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+
   {
     id: 1,
+    title: "Mundo del Libro",
+    description:
+      "Libreria online.",
+    tech: ["Next.js", "Tailwind", "TypeScript","Firebase", "OpenLibrary API"],
+    link: "mundolibro-bay.vercel.app",
+    image: "/mundo del libro.png",
+  },
+
+  {
+    id: 2,
     title: "Portfolio",
     description:
       "Pagina web personal.",
@@ -19,7 +30,7 @@ export const projects: Project[] = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Sala de reservas",
     description:
       "Pagina para reservar y crear salas con roles de administrador y usuario.",
@@ -29,7 +40,7 @@ export const projects: Project[] = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "The Legend of Marina",
     description:
       "Videojuego The Legend of Marina, un juego de plataformas 2D basado en Zelda.",
@@ -39,7 +50,7 @@ export const projects: Project[] = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Study Bot",
     description:
       "Asistente academico con IA para estudiar.",
